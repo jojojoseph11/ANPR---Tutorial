@@ -1,5 +1,7 @@
 ### This is my first git project
 
 
-```pip install easyocr
-pip install imutils```
+```
+pip install easyocr
+pip install imutils
+```
